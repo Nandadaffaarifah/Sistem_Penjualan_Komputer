@@ -1,4 +1,5 @@
-![Screenshot (76)](https://github.com/Nandadaffaarifah/Sistem_Penjualan_Komputer/assets/152130171/d9834115-642f-46d0-a614-9bb4e11d7568)# Judul
+# Website Pengelolaan Data Penjualan Komputer
+![Screenshot (76)](https://github.com/Nandadaffaarifah/Sistem_Penjualan_Komputer/assets/152130171/d9834115-642f-46d0-a614-9bb4e11d7568)
 # Laman Login
 ![(3)](https://github.com/Nandadaffaarifah/Sistem_Penjualan_Komputer/assets/152130171/803c222a-03c7-4d78-87ae-69276c5095fe)
 # Laman Menu Costumer Data
